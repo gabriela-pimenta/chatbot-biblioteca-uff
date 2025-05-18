@@ -50,7 +50,7 @@ Para executar o chatbot, siga os passos abaixo:
 
 ### :movie_camera: Demonstração
 
-Você pode ver o chatbot em ação no vídeo em anexo ou no colab https://colab.research.google.com/drive/1x-pwDWLwEcvCXRz3xnqrVy9jZpZFhNQW?usp=sharing
+Você pode ver o chatbot em ação no vídeo em anexo.
 
 ### :trophy: Próximos Passos
 
